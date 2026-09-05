@@ -1,0 +1,134 @@
+[
+  {
+    "id": "d4cd2063-d8ca-4a1e-85f6-b6f1bc0b693a",
+    "title": "The Monsoon Ghazal",
+    "body": "The rains have come again, washing the dust from every stone, Mehta.\nI wait at the window, counting drops like lost years, every stone.\nMy father's voice returns with thunder — do not forget where you began.\nEven the river forgets its source, yet always returns to its stone.\nSeparation is the name we give to love we cannot hold, Mehta.\nThe rains have come again, washing the dust from every stone.",
+    "poet_id": "637ab1bf-6472-4fd7-a839-611a6e5df353",
+    "year": 1979,
+    "language": "en",
+    "form": "ghazal",
+    "tags": [
+      "monsoon",
+      "memory",
+      "separation",
+      "Urdu tradition"
+    ],
+    "collection_id": null
+  },
+  {
+    "id": "e00cbe16-6eb1-4493-add0-4ca8e16bcb4b",
+    "title": "Neon Puddle",
+    "body": "Convenience store sign—\nits reflection shivers\nin the rain-drenched street",
+    "poet_id": "7e9185a9-c6d4-473b-8a9c-793c0d7528f2",
+    "year": 2011,
+    "language": "en",
+    "form": "haiku",
+    "tags": [
+      "urban",
+      "solitude",
+      "reflection",
+      "neon"
+    ],
+    "collection_id": null
+  },
+  {
+    "id": "cfd17cd3-62af-4ab9-857b-d77bedb24798",
+    "title": "Praise Song for the Baobab",
+    "body": "You are older than the kingdom's first sorrow.\nYour roots drink from rivers we have forgotten to name.\nBeneath your canopy, the elders spoke in proverbs;\nyour bark remembers the hands of every season.\nDo not tell me you are just a tree —\nI have seen you hold an entire village's grief\nin one night of harmattan.",
+    "poet_id": "0e92a420-092d-4e18-987a-257ce55a2b74",
+    "year": 1988,
+    "language": "en",
+    "form": "praise poem",
+    "tags": [
+      "baobab",
+      "oral tradition",
+      "ancestry",
+      "Ghana",
+      "nature"
+    ],
+    "collection_id": null
+  },
+  {
+    "id": "fcd5f3f9-3482-4bfa-a589-ca8653145411",
+    "title": "Border Sonnet",
+    "body": "They ask me which side of the river I belong.\nI say: both banks, and the current between.\nMy grandmother's tongue is a bridge I cross each dawn,\nmy mother's silence, the toll I pay at dusk.\nThere is a map inside my chest — its borders shift\neach time I say a word in the language I was taught to forget.\nI have drawn and redrawn the line: here, origin;\nhere, arrival; here, the long uncertain drift.\nDo not ask me to choose one horizon only.\nThe eye holds east and west without apology.\nI am the hyphen in the official form, the comma\nbetween two countries that have never met.\nBorders are fictions that bleed. I am the scar\nand the healed skin both.",
+    "poet_id": "4cfe534b-204b-40c8-84c3-887c310bafb8",
+    "year": 2015,
+    "language": "en",
+    "form": "sonnet",
+    "tags": [
+      "diaspora",
+      "identity",
+      "borders",
+      "language",
+      "memory"
+    ],
+    "collection_id": null
+  },
+  {
+    "id": "48494eb8-2705-4c0f-a90a-74e59a31dd8f",
+    "title": "Ode to the Euphrates",
+    "body": "O Euphrates, keeper of the first alphabet,\nyour waters wrote the names of gods before gods had names.\nI have walked your banks at dawn when the mist\nturned the world back to clay — formless, waiting.\nEvery city you fed has fallen; you outlasted them all.\nWhat is empire to a river? What is glory to water?\nFlow on. Flow on. We are the temporary ones.",
+    "poet_id": "5145c602-313d-490d-a61d-1e668580f776",
+    "year": 1961,
+    "language": "en",
+    "form": "qasida-inspired ode",
+    "tags": [
+      "Euphrates",
+      "history",
+      "impermanence",
+      "Mesopotamia"
+    ],
+    "collection_id": null
+  },
+  {
+    "id": "36ddab53-538e-443a-aa1e-8da8dcfcaf3b",
+    "title": "Algorithm Sijo",
+    "body": "The machine learns my face before I know my own reflection—\nI type my grief in search bars; it sells me grief in return.\nWho taught the river to only flow toward the advertised sea?",
+    "poet_id": "1f53bd60-1e27-482d-9da6-4077f2bb8892",
+    "year": 2022,
+    "language": "en",
+    "form": "sijo",
+    "tags": [
+      "technology",
+      "surveillance",
+      "digital age",
+      "identity"
+    ],
+    "collection_id": null
+  },
+  {
+    "id": "ad824779-728a-4171-ab3f-bc53f91f8315",
+    "title": "Elegy for a Leningrad Courtyard",
+    "body": "The courtyard remembers what the city has paved over:\na linden tree, its roots still splitting the stones.\nWe played there, Nina and I, the summer before everything.\nNow Nina is in the ground. The linden is gone.\nOnly the stone remembers, and stone does not speak —\nyet I come back each year to press my hand against it,\nreading the cold the way a blind woman reads a face.",
+    "poet_id": "4254e9a6-69b9-44d9-9917-113455a15818",
+    "year": 1971,
+    "language": "en",
+    "form": "elegy",
+    "tags": [
+      "loss",
+      "memory",
+      "Leningrad",
+      "war",
+      "childhood"
+    ],
+    "collection_id": null
+  },
+  {
+    "id": "70d4efc3-5ef2-455d-b504-1bc7347e555c",
+    "title": "The River Does Not Forget",
+    "body": "They dammed the Niger in the name of progress;\nthe fish did not receive the memorandum.\nWe signed our names on papers we could not read,\nand woke to find the river wearing new clothes.\nBut the river does not forget its old name —\nit whispers it in flood season, every time,\nreclaiming every field they thought they owned.",
+    "poet_id": "4a4b1d12-3833-494e-bad3-aaa2e7869742",
+    "year": 2003,
+    "language": "en",
+    "form": "free verse",
+    "tags": [
+      "environmental justice",
+      "Niger",
+      "colonialism",
+      "resistance",
+      "rivers"
+    ],
+    "collection_id": null
+  }
+]

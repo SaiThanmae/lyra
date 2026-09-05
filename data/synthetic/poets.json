@@ -1,0 +1,98 @@
+[
+  {
+    "id": "637ab1bf-6472-4fd7-a839-611a6e5df353",
+    "name": "Aarav Mehta",
+    "birth_year": 1940,
+    "death_year": 2018,
+    "nationality": "Indian",
+    "traditions": [
+      "Urdu ghazal",
+      "Hindi kavita"
+    ],
+    "bio": "Celebrated Urdu ghazal poet from Lucknow."
+  },
+  {
+    "id": "7e9185a9-c6d4-473b-8a9c-793c0d7528f2",
+    "name": "Yuki Tanaka",
+    "birth_year": 1965,
+    "death_year": null,
+    "nationality": "Japanese",
+    "traditions": [
+      "haiku",
+      "tanka"
+    ],
+    "bio": "Contemporary haiku poet exploring urban solitude."
+  },
+  {
+    "id": "0e92a420-092d-4e18-987a-257ce55a2b74",
+    "name": "Amara Osei",
+    "birth_year": 1952,
+    "death_year": 2010,
+    "nationality": "Ghanaian",
+    "traditions": [
+      "oral praise poetry",
+      "adinkra verse"
+    ],
+    "bio": "Oral tradition poet and cultural preservationist."
+  },
+  {
+    "id": "4cfe534b-204b-40c8-84c3-887c310bafb8",
+    "name": "Lena Vasquez",
+    "birth_year": 1978,
+    "death_year": null,
+    "nationality": "Mexican",
+    "traditions": [
+      "free verse",
+      "sonnet"
+    ],
+    "bio": "Diasporic poet writing on memory and borders."
+  },
+  {
+    "id": "5145c602-313d-490d-a61d-1e668580f776",
+    "name": "Rumi Al-Rashid",
+    "birth_year": 1901,
+    "death_year": 1975,
+    "nationality": "Iraqi",
+    "traditions": [
+      "qasida",
+      "muwashshah"
+    ],
+    "bio": "Classical Arabic poet reviving the qasida form."
+  },
+  {
+    "id": "1f53bd60-1e27-482d-9da6-4077f2bb8892",
+    "name": "Seo-Yeon Park",
+    "birth_year": 1990,
+    "death_year": null,
+    "nationality": "South Korean",
+    "traditions": [
+      "sijo",
+      "free verse"
+    ],
+    "bio": "Poet blending traditional sijo with digital themes."
+  },
+  {
+    "id": "4254e9a6-69b9-44d9-9917-113455a15818",
+    "name": "Elena Volkov",
+    "birth_year": 1935,
+    "death_year": 2005,
+    "nationality": "Russian",
+    "traditions": [
+      "acmeism",
+      "elegy"
+    ],
+    "bio": "Post-war elegist in the Akhmatova tradition."
+  },
+  {
+    "id": "4a4b1d12-3833-494e-bad3-aaa2e7869742",
+    "name": "James Okafor",
+    "birth_year": 1968,
+    "death_year": null,
+    "nationality": "Nigerian",
+    "traditions": [
+      "Igbo oral verse",
+      "protest poetry"
+    ],
+    "bio": "Environmental protest poet and linguist."
+  }
+]
