@@ -4,8 +4,8 @@ Uses text-embedding-004 (768-dim) for semantic similarity across the corpus.
 """
 
 from google.adk.agents import LlmAgent
-from backend.tools.vertex_tool import generate_embedding
-from backend.tools.bigquery_tool import store_embedding, query_similar
+from tools.vertex_tool import generate_embedding
+from tools.bigquery_tool import store_embedding, query_similar
 
 INSTRUCTION = """
 You are the EmbeddingAgent for Lyra. Given a poem_id:

@@ -4,8 +4,8 @@ Uses both embedding similarity (BigQuery) and Gemini reasoning.
 """
 
 from google.adk.agents import LlmAgent
-from backend.tools.bigquery_tool import query_similar
-from backend.tools.supabase_tool import get_poem, store_lineage
+from tools.bigquery_tool import query_similar
+from tools.supabase_tool import get_poem, store_lineage
 
 INSTRUCTION = """
 You are the LineageAgent for Lyra. Your task is to trace the cultural and

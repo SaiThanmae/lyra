@@ -1,8 +1,8 @@
 """Poems CRUD router."""
 
 from fastapi import APIRouter, HTTPException
-from backend.tools.supabase_tool import get_poem, upsert_poem, upsert_poet
-from backend.models.schemas import Poem
+from tools.supabase_tool import get_poem, upsert_poem, upsert_poet
+from models.schemas import Poem
 
 router = APIRouter()
 
@@ -17,7 +17,7 @@ async def read_poem(poem_id: str):
 
 @router.get("/")
 async def list_poems(limit: int = 20, offset: int = 0):
-    from backend.tools.supabase_tool import _get_client
+    from tools.supabase_tool import _get_client
     client = _get_client()
     result = (
         client.table("poems")

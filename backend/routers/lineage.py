@@ -1,7 +1,7 @@
 """Lineage router — poem influence and ancestry graph."""
 
 from fastapi import APIRouter, HTTPException
-from backend.tools.supabase_tool import _get_client
+from tools.supabase_tool import _get_client
 
 router = APIRouter()
 

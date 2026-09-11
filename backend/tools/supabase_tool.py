@@ -9,7 +9,7 @@ import uuid
 from typing import Optional
 
 from supabase import create_client, Client
-from backend.config import settings
+from config import settings
 
 _client: Optional[Client] = None
 

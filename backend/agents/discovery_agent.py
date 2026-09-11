@@ -3,8 +3,8 @@ DiscoveryAgent — semantic poem discovery and personalised reading recommendati
 """
 
 from google.adk.agents import LlmAgent
-from backend.tools.bigquery_tool import query_similar
-from backend.tools.supabase_tool import get_poem
+from tools.bigquery_tool import query_similar
+from tools.supabase_tool import get_poem
 
 INSTRUCTION = """
 You are the DiscoveryAgent for Lyra. You help readers and scholars find

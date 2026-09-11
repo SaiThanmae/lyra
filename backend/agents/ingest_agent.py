@@ -3,7 +3,7 @@ IngestAgent — validates and persists an incoming poem to Supabase.
 """
 
 from google.adk.agents import LlmAgent
-from backend.tools.supabase_tool import upsert_poet, upsert_poem
+from tools.supabase_tool import upsert_poet, upsert_poem
 
 INSTRUCTION = """
 You are the IngestAgent for Lyra. Given a poem submission (title, body,

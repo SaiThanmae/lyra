@@ -1,12 +1,11 @@
 """
 Lyra — FastAPI backend entry point.
-Mounts all routers and initialises GCP/Supabase clients.
 """
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from routers import poems, analysis, discovery, lineage, ingest
+from routers import poems, analysis, discovery, ingest
 
 app = FastAPI(
     title="Lyra API",
@@ -16,7 +15,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # tighten in production
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -25,7 +24,6 @@ app.add_middleware(
 app.include_router(poems.router, prefix="/poems", tags=["poems"])
 app.include_router(analysis.router, prefix="/analysis", tags=["analysis"])
 app.include_router(discovery.router, prefix="/discovery", tags=["discovery"])
-app.include_router(lineage.router, prefix="/lineage", tags=["lineage"])
 app.include_router(ingest.router, prefix="/ingest", tags=["ingest"])
 
 

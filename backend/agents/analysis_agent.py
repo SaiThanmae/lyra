@@ -5,7 +5,7 @@ Output: meter, rhyme scheme, tone, themes, cultural context, influences.
 """
 
 from google.adk.agents import LlmAgent
-from backend.tools.supabase_tool import get_poem, store_analysis
+from tools.supabase_tool import get_poem, store_analysis
 
 INSTRUCTION = """
 You are a literary scholar AI specialising in global poetic traditions.

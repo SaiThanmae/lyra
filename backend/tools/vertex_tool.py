@@ -6,7 +6,7 @@ from __future__ import annotations
 
 import vertexai
 from vertexai.language_models import TextEmbeddingModel
-from backend.config import settings
+from config import settings
 
 _model: TextEmbeddingModel | None = None
 

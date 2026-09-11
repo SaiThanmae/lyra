@@ -5,7 +5,7 @@ BigQuery tool functions — embedding storage and cosine similarity search.
 from __future__ import annotations
 
 from google.cloud import bigquery
-from backend.config import settings
+from config import settings
 
 _bq: bigquery.Client | None = None
 
